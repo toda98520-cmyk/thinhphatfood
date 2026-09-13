@@ -1,0 +1,15 @@
+{
+  "name": "ThinhPhatFood",
+  "short_name": "Thịnh Phát",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffdf8",
+  "theme_color": "#173a2a",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
